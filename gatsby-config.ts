@@ -8,14 +8,14 @@ const config: GatsbyConfig = {
     // You can overwrite values here that are used for the SEO component
     // You can also add new values here to query them like usual
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/main/themes/gatsby-theme-emma-core/gatsby-config.mjs
-    siteTitle: `Emma`,
-    siteTitleAlt: `Emma - Gatsby Starter Portfolio`,
-    siteHeadline: `Emma - Gatsby Theme from @lekoarts`,
-    siteUrl: `https://emma.lekoarts.de`,
-    siteDescription: `Minimalistic portfolio with full-width grid, page transitions, support for additional MDX pages, and a focus on large images`,
+    siteTitle: `Jay Silvas`,
+    siteTitleAlt: `Jay Silvas - Portfolio`,
+    siteHeadline: `Jay Silvas - Portfolio`,
+    siteUrl: `https://www.jaysilvas.com`,
+    siteDescription: `Jay Silvas' Minimalistic portfolio of interactive sound and music.`,
     siteImage: `/banner.jpg`,
     siteLanguage: `en`,
-    author: `@lekoarts_de`,
+    author: `@JaySilvas`,
   },
   trailingSlash: `always`,
   plugins: [
@@ -33,9 +33,9 @@ const config: GatsbyConfig = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Emma - @lekoarts/gatsby-theme-emma`,
-        short_name: `Emma`,
-        description: `Minimalistic bright portfolio with full-width grid and large images`,
+        name: `Jay Silvas - Portfolio`,
+        short_name: `Jay Silvas - Portfolio`,
+        description: `Jay Silvas' Minimalistic portfolio of interactive sound and music.`,
         start_url: `/`,
         background_color: `#fff`,
         // This will impact how browsers show your PWA/website
