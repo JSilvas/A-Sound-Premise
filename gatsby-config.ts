@@ -12,7 +12,7 @@ const config: GatsbyConfig = {
     siteTitleAlt: `Jay Silvas - Sound & Music`,
     siteHeadline: `Jay Silvas - Sound & Music`,
     siteUrl: `https://www.jaysilvas.com`,
-    siteDescription: `A portfolio of all my interactive Audio Engineering, Sound Design, and Music Production work.`,
+    siteDescription: `A portfolio of all my interactive Audio Engineering, Sound Design, and Music Production work`,
     siteImage: `/banner.jpg`,
     siteLanguage: `en`,
     author: `@JaySilvas`,
@@ -33,9 +33,9 @@ const config: GatsbyConfig = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Jay Silvas - Portfolio`,
-        short_name: `Jay Silvas - Portfolio`,
-        description: `Jay Silvas' Minimalistic portfolio of interactive sound and music.`,
+        name: `Jay Silvas - Sound & Music`,
+        short_name: `Jay Silvas - Sound & Music`,
+        description: `A portfolio of interactive Audio Engineering, Sound Design, and Music Production work.`,
         start_url: `/`,
         background_color: `#fff`,
         // This will impact how browsers show your PWA/website
