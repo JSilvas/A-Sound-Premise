@@ -8,11 +8,11 @@ const config: GatsbyConfig = {
     // You can overwrite values here that are used for the SEO component
     // You can also add new values here to query them like usual
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/main/themes/gatsby-theme-emma-core/gatsby-config.mjs
-    siteTitle: `Jay Silvas`,
-    siteTitleAlt: `Jay Silvas - Portfolio`,
-    siteHeadline: `Jay Silvas - Portfolio`,
+    siteTitle: `Jay Silvas - Sound & Music`,
+    siteTitleAlt: `Jay Silvas - Sound & Music`,
+    siteHeadline: `Jay Silvas - Sound & Music`,
     siteUrl: `https://www.jaysilvas.com`,
-    siteDescription: `Jay Silvas' Minimalistic portfolio of interactive sound and music.`,
+    siteDescription: `A portfolio of all my interactive Audio Engineering, Sound Design, and Music Production work.`,
     siteImage: `/banner.jpg`,
     siteLanguage: `en`,
     author: `@JaySilvas`,
